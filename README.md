@@ -11,6 +11,8 @@
 - pip install beautifulsoup4
 - pip install requests
 - pip install tqdm
+- pip install streamlit
+- pip install streamlit-option-menu
 - from datetime import datetime
 - import csv
 
