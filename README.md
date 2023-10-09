@@ -10,7 +10,7 @@ The project solves this by making this search online, and organizing this data i
 The idea is simple but it fulfills the proposal, and has the potential and openness to grow and improve even more.
 
 # Final Preview
-![Mídia1_1](https://github.com/LFernandoMB/CS50P/assets/91624923/fb82e47d-f0a3-4f7b-a492-682a22e60d07)
+![hrv](https://github.com/LFernandoMB/CS50P/assets/91624923/c41b277c-e47d-4737-86bb-e70a99baeed0)
 
 
 # Dependencies and Installations
