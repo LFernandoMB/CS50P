@@ -1,6 +1,6 @@
 # CS50P SMART-WALLET
 ## Created by: Luis Fernando M. Bezerra
-### Video Demo:  <youtube>
+### Video Demo:  <[Click Here](https://youtu.be/7ohyf6DY3oM)>
 ### Description: 
 This project is a proposal for completing the Python CS50 course. The Project searches online for stock data from B3 (Brazilian Stock Exchange), and distributes this data in a simple visualization.
 
